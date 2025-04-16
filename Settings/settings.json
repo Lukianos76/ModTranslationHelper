@@ -1,0 +1,82 @@
+﻿{
+    "last_game_directory": "",
+    "last_original_mode_directory": "",
+    "last_previous_directory": ".",
+    "last_target_directory": "",
+    "last_supported_source_language": "english",
+    "last_supported_target_language": "english",
+    "last_original_language": "english",
+    "last_target_language": "russian",
+    "translator_api": "GoogleTranslator",
+    "protection_symbol": "\u263b",
+    "app_language": "English",
+    "games": {
+        "Crusader Kings 3": [
+            "english",
+            "french",
+            "german",
+            "korean",
+            "russian",
+            "simp_chinese",
+            "spanish"
+        ],
+        "Hearts of Iron 4": [
+            "english",
+            "braz_por",
+            "french",
+            "german",
+            "japanese",
+            "polish",
+            "russian",
+            "spanish"
+        ],
+        "Victoria 3": [
+            "english",
+            "braz_por",
+            "french",
+            "german",
+            "japanese",
+            "korean",
+            "polish",
+            "russian",
+            "simp_chinese",
+            "spanish",
+            "turkish"
+        ],
+        "Stellaris": [
+            "english",
+            "braz_por",
+            "french",
+            "german",
+            "japanese",
+            "korean",
+            "polish",
+            "russian",
+            "simp_chinese",
+            "spanish"
+        ],
+        "Europa Universalis 4": [
+            "english",
+            "french",
+            "german",
+            "spanish"
+        ],
+        "Imperator: Rome": [
+            "english",
+            "french",
+            "german",
+            "russian",
+            "simp_chinese",
+            "spanish"
+        ]
+    },
+    "selected_game": "Victoria 3",
+    "app_size": [
+        1300,
+        700
+    ],
+    "app_position": [
+        629,
+        380
+    ]
+}
